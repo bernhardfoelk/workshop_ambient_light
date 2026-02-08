@@ -2,6 +2,9 @@
 
 This project is a hardware-controlled ambient light for my workshop.
 
+![pcb](images/ambient_light_pcb.png)
+![ambient_light](images/ambient_light.png)
+
 ## 🚀 Why this project is unique
 Instead of using standard Arduino delay-based logic, I implemented this project using **Industrial Programming Patterns**. I wrote custom classes to replicate PLC (Programmable Logic Controller) behaviors, making the code robust, reusable, and easy to debug.
 
